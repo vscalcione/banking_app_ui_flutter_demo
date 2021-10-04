@@ -25,7 +25,7 @@ List<TransactionModel> myTransactions = [
   TransactionModel(
       firstName: "Lindsay",
       lastName: "Gonzales",
-      avatar: "asset/icons/avatar1.png",
+      avatar: "assets/icons/avatar1.png",
       currentBalance: "\$5482",
       month: "January",
       changePercentageIndicator: "up",
@@ -34,7 +34,7 @@ List<TransactionModel> myTransactions = [
   TransactionModel(
       firstName: "Joey",
       lastName: "Mays",
-      avatar: "asset/icons/avatar2.png",
+      avatar: "assets/icons/avatar2.png",
       currentBalance: "\$4252",
       month: "March",
       changePercentageIndicator: "down",
@@ -43,7 +43,7 @@ List<TransactionModel> myTransactions = [
   TransactionModel(
       firstName: "Connar",
       lastName: "Bloom",
-      avatar: "asset/icons/avatar3.png",
+      avatar: "assets/icons/avatar3.png",
       currentBalance: "\$5052",
       month: "January",
       changePercentageIndicator: "up",
@@ -52,7 +52,7 @@ List<TransactionModel> myTransactions = [
   TransactionModel(
       firstName: "Kate",
       lastName: "Holt",
-      avatar: "asset/icons/avatar1.png",
+      avatar: "assets/icons/avatar1.png",
       currentBalance: "\$5841",
       month: "August",
       changePercentageIndicator: "up",
@@ -61,7 +61,7 @@ List<TransactionModel> myTransactions = [
   TransactionModel(
       firstName: "Glen",
       lastName: "Helliot",
-      avatar: "asset/icons/avatar4.png",
+      avatar: "assets/icons/avatar4.png",
       currentBalance: "\$4525",
       month: "May",
       changePercentageIndicator: "down",
